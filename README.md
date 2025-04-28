@@ -15,7 +15,7 @@ This project provides testing for a pre-written tech quiz.
 
 ## Installation
 
-You will need cypress set up and working internet to run test
+You will need cypress set up and working internet to run test. See this walkthrough video on how to access and run e2e and component tests: https://github.com/user-attachments/assets/600d1439-5677-4370-9c4c-a11a201853e2 
 
 ## Usage
 
